@@ -1,18 +1,14 @@
-### Hi there 👋
+# Hello World! 👋
 
+- 💻: I like designing and building cool stuff
+- 💁: Currently working on AI, Cybersecurity, and IOS applications
+- 🙈: Do not trust the snake. IT IS EVIL!
+  
 ![snake gif](https://github.com/shaystevens/shaystevens/blob/output/github-contribution-grid-snake.svg)
 
-<!--
-**shaystevens/shaystevens** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,py,js,java,c,cpp,aws,azure,html,css,php" />
+  </a>
+</p>
