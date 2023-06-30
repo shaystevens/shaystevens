@@ -9,6 +9,6 @@
 ## Skills
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,py,js,java,c,cpp,aws,azure,html,css,php" />
+    <img src="https://skillicons.dev/icons?i=linux,py,java,c,cpp,cmake,html,js,css,php,swift,androidstudio,aws,azure,docker" />
   </a>
 </p>
