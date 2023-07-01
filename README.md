@@ -1,7 +1,7 @@
 # Hello World! 👋
 
 - 💻: I like designing and building cool stuff
-- 💁: Currently working on AI, Cybersecurity, and IOS applications
+- 💁: Currently working on AI, Cybersecurity, and Mobile applications
 - 🙈: Do not trust the snake. IT IS EVIL!
   
 ![snake gif](https://github.com/shaystevens/shaystevens/blob/output/github-contribution-grid-snake.svg)
